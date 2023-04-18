@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hey there :wave:
 
