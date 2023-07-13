@@ -28,7 +28,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
